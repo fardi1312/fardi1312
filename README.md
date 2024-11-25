@@ -1,6 +1,6 @@
 # Bonjour 👋, je suis Massoud FARDI
 
-### Étudiant en cycle d'ingénierie - Passionné par le développement logiciel
+### Étudiant en cycle d'ingénierie en génie logiciel
 
 📍 **Adresse** : Ariana, Tunisie  
 📞 **Téléphone** : +216 58 798 251  
