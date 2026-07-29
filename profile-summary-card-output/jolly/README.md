@@ -15,6 +15,16 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/fardi1312/fardi1312/master/profile-summary-card-output/jolly/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
@@ -29,6 +39,16 @@
 
 ```
 ![](https://raw.githubusercontent.com/fardi1312/fardi1312/master/profile-summary-card-output/jolly/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/fardi1312/fardi1312/master/profile-summary-card-output/jolly/3-stats.svg)
 ```
 
     
